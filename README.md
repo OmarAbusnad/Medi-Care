@@ -18,7 +18,7 @@ Welcome to the Medical Decision Making Expert System designed for Intensive Care
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/medical-decision-making-icu.git
+   git clone https://github.com/OmarAbusnad/Medi-Care.git
    ```
 
 2. **Install Dependencies:** Ensure you have Python and the necessary libraries installed (such as `numpy` and `scikit-fuzzy`).
